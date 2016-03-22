@@ -1,0 +1,31 @@
+{
+  "name": "koa-robots.txt",
+  "version": "1.0.0",
+  "description": "koa middleware to handle different robots.txt responses on different domains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/steffenagger/koa-robots.txt.git"
+  },
+  "bugs": "https://github.com/steffenagger/koa-robots.txt/issues",
+  "keywords": [
+    "koa",
+    "middelware",
+    "robots.txt"
+  ],
+  "author": { 
+    "name" : "Steffen Agger",
+    "email" : "steffen.agger@gmail.com",
+    "url" : "http://sua.io"
+  },
+  "license": "ISC",
+  "eslintConfig": {
+    "env": {
+      "node": true,
+      "es6": true
+    }
+  }
+}
